@@ -3,7 +3,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .text-primary{
-    color: #FD6E0A;
+    color: rgb(49, 195, 141);
     }
 
 .banner-container{
@@ -35,7 +35,7 @@ margin-top: 50px;
     background-size: cover;
     /* background-blend-mode: overlay; */
     }
-    .photo{
+    .photo3{
         width: 700px;
     }
     .photo1{
@@ -56,7 +56,7 @@ margin-top: 50px;
     }
     .btn{
         border-radius:5px;
-        background-color:#FD6E0A;
+        background-color:rgb(249, 122, 143);
         border:0 ;
         color:white;
         font-size:20px;
@@ -159,6 +159,11 @@ form button{
     font-size: 18px;
     margin-top:15px
 }
+.back{
+    background-color: #c7d8d3;
+    margin-bottom: 2px;
+
+}
 
 .about-us-container{
     display: flex;
@@ -180,7 +185,7 @@ footer{
     height: auto;
     width: 100vw;
     font-family: "Open Sans";
-    margin-top: 500px;
+    margin-top: 50px;
     padding-top:40px;
     color:#fff,
 }
